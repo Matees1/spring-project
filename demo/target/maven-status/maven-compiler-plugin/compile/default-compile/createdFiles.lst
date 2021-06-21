@@ -1,0 +1,7 @@
+net/matees/demo/student/StudentService.class
+net/matees/demo/student/StudentController.class
+net/matees/demo/student/Student.class
+net/matees/demo/student/GradeLevel.class
+net/matees/demo/DemoApplication.class
+net/matees/demo/student/StudentRepo.class
+net/matees/demo/student/StudentConfig.class
